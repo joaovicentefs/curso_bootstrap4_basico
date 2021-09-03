@@ -1,3 +1,5 @@
-h1 {
-    color: blue;
+.img-carrossel {
+    object-fit: cover;
+    object-position: 0 70%;
+    height: 400px;
 }
