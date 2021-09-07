@@ -9,3 +9,20 @@
 .cor-especial {
     color: #8b0000;
 }
+.btn-cor-especial {
+    background-color: #8b0000;
+    color: #fff;
+}
+
+.borda-cor-especial {
+    border-color: #8b0000;
+}
+
+.card-receita {
+    width: 18rem;
+}
+
+.card-custom-img {
+    object-fit: cover;
+    height: 200px;    
+}
