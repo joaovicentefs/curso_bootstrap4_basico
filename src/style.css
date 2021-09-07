@@ -19,7 +19,7 @@
 }
 
 .card-receita {
-    width: 18rem;
+    max-width: 18rem;
 }
 
 .card-custom-img {
